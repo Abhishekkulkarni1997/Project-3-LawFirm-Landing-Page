@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    background-color: #373333ce;
+}
+
+header {
+    color: #fff;
+}
+
+.navbar {
+    height: 70px;
+}
+
+.logo>img {
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 15px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+
+.nav-item {
+    margin-right: 50px;
+    color: #dbdbdb;
+    cursor: pointer;
+    font-weight: 100;
+}
+
+.nav-item.active {
+    margin-right: 50px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.nav-item.button {
+    padding: 10px 30px;
+    background-color: transparent;
+    border: 2px solid #a8a800;
+    color: #a8a800;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.courtimg>img {
+    width: 100vw;
+    height: 295px;
+}
+
+.headcontent {
+    height: 300px;
+    margin-top: 80px;
+}
+
+.headcontent>h1 {
+    float: left;
+    margin-left: 150px;
+    width: 600px;
+    font-size: 75px;
+    line-height: 130%;
+}
+
+.headcontent>p {
+    float: right;
+    margin-right: 250px;
+    width: 420px;
+    margin-top: 60px;
+    font-size: 18px;
+}
