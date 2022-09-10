@@ -11,7 +11,7 @@
 ### Time Required to finish the project
     (0.5 hrs)
 
- [Deployed Link](https://css-html-project-three.netlify.app/)
+ [Deployed Link](https://project-3-lawfirm-landing-page.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
