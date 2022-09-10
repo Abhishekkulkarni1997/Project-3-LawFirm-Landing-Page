@@ -51,15 +51,14 @@ nav {
     cursor: pointer;
 }
 
-
 .courtimg>img {
     width: 100vw;
-    height: 295px;
+    height: 387.5px;
 }
 
 .headcontent {
-    height: 300px;
-    margin-top: 80px;
+    height: 250px;
+    margin-top: 40px;
 }
 
 .headcontent>h1 {
